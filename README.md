@@ -1,4 +1,5 @@
-##Docker Command Line Instructions
+Docker Command Line Instructions
+
 -Docker build image command
 $> docker build -t lab_two:latest .
 
